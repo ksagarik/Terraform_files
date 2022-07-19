@@ -1,0 +1,5 @@
+rgname = "RSG3"
+rglocation = "Central India"
+prefix = "Sample"
+vnet_cidr_prefix= "10.10.0.0/16"
+subnet_cidr_prefix= "10.10.1.0/24"
